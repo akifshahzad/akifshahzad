@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akif Shahzad</h1>
 <h3 align="center">Web Developer | Designing Scaleable SaaS Applications</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/akifshahzad" alt="akif-shahzad" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wasif-shehzad" alt="wasif-shehzad" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/wasifshehzad063" target="blank"><img src="https://img.shields.io/twitter/follow/wasifshehzad063?logo=twitter&style=for-the-badge" alt="wasifshehzad063" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce Website**
+- 🔭 I’m currently working on **E-commerce Website**
 
 - 🌱 I’m currently learning **Natural Language Processing | Computer Vision**
 
