@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akif Shahzad</h1>
 <h3 align="center">Web Developer | Designing Scaleable SaaS Applications</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wasif-shehzad" alt="wasif-shehzad" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/akfshzad" target="blank"><img src="https://img.shields.io/twitter/follow/akfshzad?logo=twitter&style=for-the-badge" alt="akfshzad" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce Website**
