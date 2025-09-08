@@ -3,19 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/akfshzad" target="blank"><img src="https://img.shields.io/twitter/follow/akfshzad?logo=twitter&style=for-the-badge" alt="akfshzad" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce Website**
+- 🔭 I’m currently working on **React Native Project**
 
 - 🌱 I’m currently learning **Natural Language Processing | Computer Vision**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for help with **Machine Learning**
-
-- 📝 I regularly write articles on **Technology decisions**
-
 - 💬 Ask me about **Javascript**
-
-- 📫 How to reach me **akifbutt796@gmail.com**
 
 - ⚡ Fun fact **code makes me feels alive**
 
